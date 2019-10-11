@@ -1,0 +1,35 @@
+<div 
+    class="transcription_container"
+    style="
+        z-index: 100000;
+        position: fixed;
+        bottom: 10%;
+        width: 100%;
+        align-content: center;
+    ">
+
+    <div 
+        class="transcription" 
+        id="captions" 
+        style="
+            background-color: rgba(169, 169, 169, 0.575);
+            font-size: xx-large;
+            padding: 4px;
+            text-align: center;
+            width: fit-content;
+            align-content: center;
+            font-family: Roboto, sans-serif;
+        ">
+        This is my transcription <br/>
+        there are many like it but this one is mine
+    </div>
+
+
+</div>
+<script src="https://js.pusher.com/5.0/pusher.min.js"></script>
+<script src="transcription.js"></script>
+<script type="text/javascript">
+    Reveal.addEventListener('slidechanged', function (event) {
+        console.log("🎞️ Slide is now " + event.indexh);
+    });
+</script>
