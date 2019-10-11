@@ -35,9 +35,11 @@ My engerlisch 😂
 ---
 # Repos
 
-Presentation:
+Presentation URL: [brave-new-world-of-serverless.netlify.com](https://brave-new-world-of-serverless.netlify.com)
 
-Speech 2 Text code: 
+Presentation code: [github.com/zmarkan/brave_new_world_of_serverless](github.com/zmarkan/brave_new_world_of_serverless) 
+
+Speech to Text code: [github.com/zmarkan/talk_transcriptor](https://github.com/zmarkan/talk_transcriptor)
 
 ---
 # _Fin_
