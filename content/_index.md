@@ -2,9 +2,70 @@
 title = "Brave New World of Serverless"
 outputs = ["Reveal"]
 +++
-# Live Captioned Talks with Channels
+
+{{< slide center="true" >}}
+
+# Placeholder slide
+
 
 ---
+{{< slide center="false" >}}
+
+# Brave New World Of Serverless
+
+
+
+---
+{{< slide center="true" >}}
+
+
+# Not so long ago, in a galaxy far, far away
+
+- Now this is a story all about how my life got twisted up turned inside and out...
+
+---
+
+# What is serverless?
+
+
+---
+
+# What ISN'T serverless?
+
+---
+
+# Naysayers and their papers
+
+---
+
+# The new liberal computing
+
+
+---
+
+# The value of getting stuff done
+
+
+---
+
+# Serverless is inevitable
+
+---
+
+# Addendum - how the captions are made
+
+---
+
+# Fin
+
+---
+
+
+# Resources
+
+
+
+
 # Live Captioned Talks with Channels
 
 You _should_ be able to see some text moving as I speak below here... 👇
