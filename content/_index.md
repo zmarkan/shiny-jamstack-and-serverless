@@ -16,12 +16,26 @@ outputs = ["Reveal"]
 
 
 ---
-{{< slide center="true" >}}
 
+{{< slide background-image="/images/01_hamburg.jpg" >}}
 
-# Not so long ago, in a galaxy far, far away
+## Not so long ago, in a galaxy far, far away
 
-- Now this is a story all about how my life got twisted up turned inside and out...
+<small>(Photo by Max Kukurudziak on Unsplash)</small>
+
+---
+
+{{< slide background-image="/images/02_container.jpg" >}}
+
+## Not so long ago, in a galaxy far, far away
+
+<small>(Photo by chuttersnap on Unsplash)</small>
+
+---
+
+{{< slide background-image="/images/03_thanos.jpg" >}}
+
+## Serverless is... inevitable
 
 ---
 
