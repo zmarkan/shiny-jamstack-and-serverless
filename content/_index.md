@@ -3,35 +3,152 @@ title = "Brave New World of Serverless"
 outputs = ["Reveal"]
 +++
 
-{{< slide center="true" >}}
-
 # Placeholder slide
 
 
 ---
-{{< slide center="false" >}}
 
 # Brave New World Of Serverless
 
+Zan Markan
 
+Developer Advocate at Pusher
+
+---
+
+#### Not so long ago, and not too far away either... 
 
 ---
 
 {{< slide background-image="/images/01_hamburg.jpg" >}}
 
-## Not so long ago, in a galaxy far, far away
-
-<small>(Photo by Max Kukurudziak on Unsplash)</small>
-
 ---
 
 {{< slide background-image="/images/02_container.jpg" >}}
 
-## Not so long ago, in a galaxy far, far away
+---
 
-<small>(Photo by chuttersnap on Unsplash)</small>
+You _should_ be able to see some text moving as I speak below here... 👇
 
 ---
+
+serverless != λ
+
+---
+
+Serverless is:
+
+- Using what's out there
+- Autoscaling
+- Quick to start
+- Focusing on your business logic
+
+---
+
+# But...
+
+## What the naysayers are saying
+
+---
+
+# 🕵️‍♂️
+
+Serverless has servers!
+
+---
+
+# 🖨
+
+I can't run it on custom hardware!
+
+---
+
+# 🤖
+
+I can't use it for machine learning!
+
+---
+
+# 💯
+
+They are all correct.
+
+---
+
+🗽
+
+# The new liberal computing
+
+---
+
+# 🎏
+Glitch 
+
+---
+
+> "Serverless might be this generation's PHP".
+
+Pawel Ledwon, CTO Pusher
+
+---
+
+Get started faster, discover the joy of programming and building things sooner
+
+---
+
+# Ecosystem (of ecosystems)
+
+---
+
+GitHub actions
+
+---
+
+Netlify
+
+---
+
+
+Auth0
+
+Identity as a service
+
+
+---
+
+
+Pusher Channels and Chatkit
+
+---
+
+All these SaaS products let you focus on building what matters to you.
+
+---
+
+# 💪
+
+# The value of getting stuff done
+
+---
+
+# 🦖
+
+It's evolution, baby! 
+
+---
+
+# 🐱‍🐉
+
+Serverless is not going to "kill" computing. 
+
+It's just a new paradigm, and one that is really convenient to use.
+
+---
+
+Functions everywhere
+
+---
+
 
 {{< slide background-image="/images/03_thanos.jpg" >}}
 
@@ -39,34 +156,20 @@ outputs = ["Reveal"]
 
 ---
 
-# What is serverless?
-
-
----
-
-# What ISN'T serverless?
-
----
-
-# Naysayers and their papers
-
----
-
-# The new liberal computing
-
-
----
-
-# The value of getting stuff done
-
-
----
-
-# Serverless is inevitable
-
----
-
 # Addendum - how the captions are made
+
+**Google Cloud** Speech 2 Text - 🎙💬🤖
+
+**Pusher Channels** ✨☁
+
+Reveal.JS prezo on **Netlify** ⚡💻
+
+---
+# How novel is that?
+
+Not at all 🤦‍
+
+PowerPoint had it for ages 😬
 
 ---
 
@@ -82,23 +185,11 @@ outputs = ["Reveal"]
 
 # Live Captioned Talks with Channels
 
-You _should_ be able to see some text moving as I speak below here... 👇
 
 ---
 # How It's Made
 
-**Google Cloud** Speech 2 Text - 🎙💬🤖
 
-**Pusher Channels** ✨☁
-
-Reveal.JS prezo on **Netlify** ⚡💻
-
----
-# How novel is that?
-
-Not at all 🤦‍
-
-PowerPoint had it for ages 😬
 
 ---
 # Problems 😱
