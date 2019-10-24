@@ -24,21 +24,31 @@ function setupTranscriptionListeners() {
 
     transcriptions.bind("wip", data => {
       line2 = trimLine(data);
-      updateCaption(line1, line2);
+      transcriptDiv.innerHTML = `${line1} <br/> ${line2}`;
 
       transcriptDiv.hidden = false;
       if (timeoutHandle) window.clearTimeout(timeoutHandle);
-      timeoutHandle = window.setTimeout(emptyCaption, 3000);
+      timeoutHandle = window.setTimeout(() => {
+        line1 = "";
+        line2 = "";
+        updateCaption(line1, line2);
+        transcriptDiv.hidden = true;
+      }, 3000);
     });
 
     transcriptions.bind("final", data => {
       line1 = trimLine(data);
       line2 = " ";
-      updateCaption(line1, line2);
+      transcriptDiv.innerHTML = `${line1} <br/> ${line2}`;
 
       transcriptDiv.hidden = false;
       if (timeoutHandle) window.clearTimeout(timeoutHandle);
-      timeoutHandle = window.setTimeout(emptyCaption, 3000);
+      timeoutHandle = window.setTimeout(() => {
+        line1 = "";
+        line2 = "";
+        updateCaption(line1, line2);
+        transcriptDiv.hidden = true;
+      }, 3000);
     });
   });
 }
