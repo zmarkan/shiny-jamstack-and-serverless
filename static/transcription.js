@@ -12,8 +12,10 @@ function setupTranscriptionListeners() {
   transcriptDiv.hidden = true;
 
   Reveal.addEventListener("ready", event => {
+    
     let line1 = " ";
     let line2 = " ";
+
     transcriptDiv.innerHTML = `${line1} <br/> ${line2}`;
 
     transcriptDiv.hidden = true;
