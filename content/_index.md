@@ -67,7 +67,7 @@ serverless != λ
 
 ## Serverless is:
 
-- Single functions of code  λ
+- Single functions of code 
 - Less ops and server management
 - Focusing on your business logic
 - Offloading heavy lifting to others
