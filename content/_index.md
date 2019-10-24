@@ -251,7 +251,7 @@ Serverless deployments & magic CLI tools ✨
 
 ## Pusher Channels & Chatkit
 
-Realtime and Chat as a service
+Realtime ✨ as a service
 
 ---
 
