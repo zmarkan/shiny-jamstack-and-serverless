@@ -57,9 +57,23 @@ _vs_
 
 ## shipping software 🐱‍💻
 
+
 ---
 
 You _should_ be able to see some text moving as I speak below here... 👇
+
+---
+
+serverless != λ
+
+---
+
+## Serverless is:
+
+- Single functions of code  λ
+- Less ops and server management
+- Focusing on your business logic
+- Offloading heavy lifting to others
 
 ---
 
@@ -73,22 +87,16 @@ Realtime APIs to make delightful communication features
 
 ---
 
-serverless != λ
-
----
-
-Serverless is:
-
-- Using what's out there
-- Autoscaling
-- Quick to start
-- Focusing on your business logic
-
----
-
 ### But...
 
 What the naysayers are saying
+
+---
+
+Serverless: one step forward, two steps back
+
+<small> [Paper at arxiv.org](https://arxiv.org/pdf/1812.03651.pdf) </small>
+
 
 ---
 
@@ -123,6 +131,12 @@ I can't use it for machine learning!
 # 💯
 
 They are all correct.
+
+---
+
+# 💯
+
+They also miss the point.
 
 ---
 
@@ -168,6 +182,20 @@ React to all the things!
 
 ---
 
+<img src="/images/auth0-glyph.png" height="100" style="background: none; border: none !important; shadow: none;"> </img>
+
+## Auth0
+
+Identity as a service
+
+---
+
+<img src="/images/kafka_icon.png" height="100" width="100" style="background: none; border: none !important; shadow: none;"></img> 
+
+## Kafka as a Service 
+
+---
+
 <svg width="100" height="100" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path fill-rule="evenodd" clip-rule="evenodd" d="M10 1C14.9707 1 19 5.02932 19 10C19 14.9707 14.9707 19 10 19C5.02932 19 1 14.9707 1 10C1 5.02932 5.02932 1 10 1Z" stroke="#2088FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
 <path fill-rule="evenodd" clip-rule="evenodd" d="M23 19C26.3137 19 29 21.6863 29 25C29 28.3137 26.3137 31 23 31C19.6863 31 17 28.3137 17 25C17 21.6863 19.6863 19 23 19Z" stroke="#2088FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
@@ -199,14 +227,6 @@ Static sites, functions and hosting these slides!
 
 ---
 
-<img src="/images/auth0-glyph.png" height="100" style="background: none; border: none !important; shadow: none;"> </img>
-
-## Auth0
-
-Identity as a service
-
----
-
 <svg width="100" viewBox="0 0 113 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
     <title>Logotype - White</title>
@@ -230,10 +250,6 @@ Serverless deployments & magic CLI tools ✨
 
 ---
 
-<img src="/images/zeit_sample.png" height="600">
-
----
-
 ## <img src="/images/channels_icon.png" height="100" style="background: none; border: none !important; shadow: none;"> </img> & <img src="/images/chatkit_icon.png" height="100" style="background: none; border: none !important; shadow: none;"> </img>
 
 ## Pusher Channels & Chatkit
@@ -252,25 +268,21 @@ Let them.
 
 ## The value of getting stuff done
 
----
-
-# 🦖
-
-It's evolution, baby! 
-
----
-
-# 🐱‍🐉
-
-Serverless is not going to "kill" computing. 
-
-It's just a new paradigm, and one that is really convenient to use.
 
 ---
 
 {{< slide background-image="/images/03_thanos.jpg" >}}
 
 ## Serverless is... inevitable
+
+
+---
+
+# 🐱‍🐉
+
+Empowering the new generations of developers
+
+Focusing on shipping value
 
 ---
 
@@ -279,11 +291,11 @@ It's just a new paradigm, and one that is really convenient to use.
 
 --- 
 
-**Google Cloud** Speech 2 Text - 🎙💬🤖
+**Google Cloud** Speech 2 Text 🎙💬🤖
 
-**Pusher Channels** ✨☁
+**Pusher Channels** realtime broadcasting ✨☁
 
-Reveal.JS prezo on **Netlify** ⚡💻
+Reveal.JS prezo on **Netlify** - static site ⚡💻
 
 ---
 
@@ -315,13 +327,11 @@ Made with ❤️ by [@zmarkan](https://twitter.com/zmarkan)
 
 ---
 
-# Resources
+### Resources
 
-Presentation URL: [brave-new-world-of-serverless.netlify.com](https://brave-new-world-of-serverless.netlify.com)
-
-Presentation code: [github.com/zmarkan/brave_new_world_of_serverless](github.com/zmarkan/brave_new_world_of_serverless) 
-
-Speech to Text code: [github.com/zmarkan/talk_transcriptor](https://github.com/zmarkan/talk_transcriptor)
+- Presentation URL: [brave-new-world-of-serverless.netlify.com](https://brave-new-world-of-serverless.netlify.com)
+- Presentation code: [github.com/zmarkan/brave_new_world_of_serverless](github.com/zmarkan/brave_new_world_of_serverless) 
+- Speech to Text code: [github.com/zmarkan/talk_transcriptor](https://github.com/zmarkan/talk_transcriptor)
 
 ---
 # Problems 😱

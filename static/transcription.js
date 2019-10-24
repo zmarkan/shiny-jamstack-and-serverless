@@ -1,8 +1,8 @@
 const transcriptDiv = document.getElementById("captions");
 
 Pusher.logToConsole = true
-const pusher = new Pusher(CHANNELS_KEY, {
-  cluster: CHANNELS_CLUSTER,
+const pusher = new Pusher('6a241c06bf570e77820c', {
+  cluster: 'eu',
   forceTLS: true
 });
 
