@@ -37,7 +37,19 @@ Developer Advocate at Pusher
 
 ---
 
-TODO - Amazon slide
+{{< slide background-image="/images/06_fulfilment.bmp" >}}
+
+---
+
+Cool story bruh, but what does it have to do with serverless?
+
+---
+
+## Shipping cargo 🚢📦 
+
+_vs_ 
+
+## shipping software 🐱‍💻
 
 ---
 
