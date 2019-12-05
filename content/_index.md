@@ -54,10 +54,13 @@ _vs_
 
 ## shipping software 👩‍💻👨‍💻
 
-
 ---
 
 You _should_ be able to see some text moving as I speak below here... 👇
+
+---
+
+serverless
 
 ---
 
@@ -71,10 +74,6 @@ serverless != λ
 - Less ops and server management
 - Focusing on your business logic
 - Offloading heavy lifting to others
-
----
-
-What I'm really talking about is _Backendless.
 
 ---
 
