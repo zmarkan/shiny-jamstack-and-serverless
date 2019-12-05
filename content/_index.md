@@ -42,17 +42,17 @@ Developer advocate @ Pusher
 
 ---
 
-Cool story bruh...
+Cool story bruv...
 
 But what does it have to do with serverless?
 
 ---
 
-## Shipping cargo 🚢📦 
+## Shipping goods 🚢📦 
 
 _vs_ 
 
-## shipping software 🐱‍💻
+## shipping software 👩‍💻👨‍💻
 
 
 ---
