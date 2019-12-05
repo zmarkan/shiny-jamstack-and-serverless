@@ -17,7 +17,7 @@ Developer advocate @ Pusher
 
 ---
 
-{{< slide background-image="/images/01_hamburg.jpg" >}}
+{{< slide background-image="/images/port_of_london_modern.jpg" >}}
 
 ---
 
@@ -25,12 +25,12 @@ Developer advocate @ Pusher
 
 ---
 
-{{< slide background-image="/images/05_old_hamburg_2.jpg" >}}
+{{< slide background-image="/images/london_port_history.jpg" >}}
 
 ---
 
 
-{{< slide background-image="/images/04_old_hamburg.jpg" >}}
+{{< slide background-image="/images/greenwich_gresham_college.jpg" >}}
 
 ---
 
