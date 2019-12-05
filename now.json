@@ -1,0 +1,6 @@
+{
+    "env": {
+        "CHANNELS_CLUSTER": "@channels_cluster",
+        "CHANNELS_KEY": "@channels_key"
+    }
+}
